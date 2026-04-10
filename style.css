@@ -61,7 +61,7 @@ body {
   margin-top: -10px;
   font-weight: 700;
 }
-.btn1:hover {
+.btn1:hover  {
   background-color: #c5a059;
   transform: scale(1.05);
 }
@@ -181,4 +181,14 @@ body {
   justify-content: right;
   margin-left: 610px;
   margin-top: 150px;
+}
+footer{
+    background-color: #c5a059;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+footer p{
+        font-family:"Montserrat",sans-serif ;
+
 }
