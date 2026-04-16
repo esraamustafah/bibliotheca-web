@@ -418,12 +418,15 @@ display: inline-block;
   color: #1a1a1a;
   justify-content: center;
   text-align: center;
-  transform: translate(-60px,-14px);
+  transform: translate(-20px,-14px);
   font-weight: 700;
   letter-spacing: 1px;
   text-shadow: 0 0 12px rgba(216, 216, 216, 0.9);
 }
-
+.footer a{
+  text-decoration: none;
+  color: white;
+}
 footer{
     background-color:navy;
     text-align: center;
