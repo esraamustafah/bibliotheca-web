@@ -616,6 +616,7 @@ img {
     transform: translateX(-20px);
   }
   .navs{
+<<<<<<< HEAD
     display: none;
   }
   .ancient-title2{
@@ -655,3 +656,8 @@ img {
     text-align: center;
   }
 }
+=======
+    display : none;
+  }
+}
+>>>>>>> e6773b8ac1ac08065c546d11227e4f71c55e72ee
