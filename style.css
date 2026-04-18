@@ -616,4 +616,7 @@ img {
   .images-row{
     transform: translateX(-20px);
   }
+  .navs{
+    display : none;
+  }
 }
