@@ -29,7 +29,6 @@ html{
   justify-content: center;
   background-position: center;
 }
-
 .text {
   font-size: 40px;
   margin-top: 170px;
@@ -494,7 +493,7 @@ img {
     }
 }
 @media(max-width : 760px){
-  .ancient-title2, .discription3, .border2, .disc-3, .info{
+    .disc-3, .info{
     transform: none !important;
     margin: 10px auto !important;
     position: static !important;
@@ -503,6 +502,11 @@ img {
   .navs{
     padding: 10px;
     font-size: 0.8rem;
+    width: auto;
+  }
+  .li{
+    display: flex;
+    flex-direction: column;
   }
   .title, .title3, .ancient-title{
     font-size: 24px;
@@ -553,11 +557,6 @@ img {
     justify-content: center;
     margin-right: 10px;
   }
-  .ancient-title2{
-    font-size: 22px;
-    align-items: center;
-    margin-right: 20px;
-  }
   .images-text{
     justify-content: center;
   }
@@ -579,7 +578,7 @@ img {
       padding-top: 0;
   }
   .t2{
-    font-size: 20px;
+    font-size: 24px;
   }
   .imgs-2{
     display: flex;
@@ -615,5 +614,44 @@ img {
   }
   .images-row{
     transform: translateX(-20px);
+  }
+  .navs{
+    display: none;
+  }
+  .ancient-title2{
+    transform: translateX(130px);
+    font-size: 20px;
+  }
+  .discription3{
+    font-size: 15px;
+    transform: translateX(32.5px);
+  }
+  .img12{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .border2{
+    position: static !important;
+    transform: translate(80px , 21px);
+    width: 320px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #0e0e0e;
+  }
+  .image-ancient{
+    background-color:#0e0e0e ;
+    width:430px;
+    height: 190px;
+  }
+  .text-ancient{
+    display: flex;
+    flex-direction: column;
+  }
+  .title4{
+    text-align: center;
   }
 }
