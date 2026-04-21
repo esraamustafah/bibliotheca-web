@@ -1,8 +1,10 @@
 # bibliotheca-web
 I am from Alexandria , so it is abvious that i spend most of my time in Biblitotheca Alexandira.
+
 I wrote its history and who , why it was built with a virtual image of ancient greeks
 Also I showed how it looked from inside with a small tour with some photos.
 I mentioned the modern revival and uploaded some pics of the modern library
 I put some of the library events.(still more i didn't put)
-and finally put the opening hours(taken from the official site of the library).
+And finally put the opening hours(taken from the official site of the library).
+At the bottom , I put a footer containing quick links and their official webiste.
 Tech style: HTML , CSS (still beginner tho :D)
