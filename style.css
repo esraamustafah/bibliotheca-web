@@ -498,6 +498,7 @@ img {
     margin: 10px auto !important;
     position: static !important;
     text-align: center;
+    text-align: justify;
   }
   .navs{
     padding: 10px;
@@ -675,10 +676,23 @@ img {
     transform: translate(-1px , 10px);
   }
   body{
+    overflow: visible;
+    height: auto;
+    max-height: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
     overflow-x: hidden;
   }
   .navs{
     display : none;
+}
+html{
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+.AI{
+  white-space: nowrap;
 }
 }
 
