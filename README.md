@@ -4,5 +4,5 @@ I wrote its history and who , why it was built with a virtual image of ancient g
 Also I showed how it looked from inside with a small tour with some photos.
 I mentioned the modern revival and uploaded some pics of the modern library
 I put some of the library events.(still more i didn't put)
-and finally put the opening hours.
-tech style: HTML , CSS (still beginner tho :D)
+and finally put the opening hours(taken from the official site of the library).
+Tech style: HTML , CSS (still beginner tho :D)
