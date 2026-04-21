@@ -616,7 +616,6 @@ img {
     transform: translateX(-20px);
   }
   .navs{
-<<<<<<< HEAD
     display: none;
   }
   .ancient-title2{
@@ -624,8 +623,11 @@ img {
     font-size: 20px;
   }
   .discription3{
-    font-size: 15px;
-    transform: translateX(32.5px);
+    font-size: 13px;
+    transform: translateX(32px);
+    letter-spacing: 1px;
+    flex-wrap: wrap;
+    padding: 0 20px;
   }
   .img12{
     display: flex;
@@ -655,9 +657,24 @@ img {
   .title4{
     text-align: center;
   }
-}
-=======
+  .navs{
     display : none;
   }
+  .hours-table{
+    padding: 20px 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: sticky;
+  }
+  .table{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    transform: translate(-1px , 10px);
+  }
+  body{
+    overflow-x: hidden;
+  }
 }
->>>>>>> e6773b8ac1ac08065c546d11227e4f71c55e72ee
